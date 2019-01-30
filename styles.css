@@ -1,0 +1,53 @@
+body {
+    
+    background-image:url("hack4climate_anim.gif");
+    background-attachment:scroll;
+    background-repeat:no-repeat;
+    background-size: 100% 100%;
+    background-position:right top;
+    border: 3px solid black;
+    background-color: lightblue;
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 160px;
+    padding-left: 80px;
+
+}
+
+h1 {
+    color: grey;
+    text-align: center;
+    font-style: bold;
+    border-style: dashed;
+    border-width: 4px;
+    animation-name: example;
+    animation-duration: 3s;
+    text-shadow: 2px 2px green;
+    text-decoration-style: wavy;
+    text-decoration: underline;
+
+}
+
+p {
+    color: grey;
+    text-align=left;
+    border-style: double;
+    border-width: 4px;
+    text-shadow: 2px 2px black;
+    padding-right: 200px;
+    padding-left: 0px;
+}
+
+img {
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    width: 150px;
+}
+
+
+
+a {
+  color: red;
+}
+

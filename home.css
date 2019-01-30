@@ -1,0 +1,12 @@
+p {
+    color: black;
+    text-align=centre;
+    border-style: double;
+    border-width: 6px;
+   
+    padding-right: 200px;
+    padding-left: 0px;
+}
+a {
+  color: red;
+}
